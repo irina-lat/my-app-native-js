@@ -1,4 +1,4 @@
-import {mult, splitIntoWord, sum} from "./01";
+import {mult, sum} from "./01";
 
 test('sum shold be correct', () => {
         //data
